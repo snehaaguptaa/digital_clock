@@ -1,0 +1,17 @@
+body{
+    margin:0 ;
+    padding: 0 ;
+}
+.first{
+    /* background-color: #212121 ; */
+    color : lightcoral ;
+    text-align: center;
+}
+.third{
+    height:3000;
+    width: 4000 ;
+    background-color: beige;
+    border-radius: 20;
+    text-decoration: solid;
+    font-size: 20 ;
+}
